@@ -1,9 +1,9 @@
-# Bismillah...
-# Halo, It's [Fadlan!](https://fadlan65.github.io/MyPortfolio/)
+<!--# Bismillah...-->
+<!--# Halo, It's [Fadlan!](https://fadlan65.github.io/MyPortfolio/)-->
 
-<span style="font-size: 100px;">Bismillah...</span>
-
-<span style="font-size: 28px;">Hello, It's Fadlan!</span>
+<span style="font-size: 28px;">Bismillah...</span>
+<br />
+<span style="font-size: 32px;">Hello, It's Fadlan!</span>
 
 <br/>
 
