@@ -1,8 +1,8 @@
 <!--# Bismillah...-->
 <!--# Halo, It's [Fadlan!](https://fadlan65.github.io/MyPortfolio/)-->
 
-<span style="font-size: 28px;">Bismillah...</span>
-<br />
+<!--span style="font-size: 28px;">Bismillah...</span-->
+<!--br /-->
 <span style="font-size: 32px;">Hello, It's Fadlan!</span>
 
 <br/>
