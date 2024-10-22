@@ -1,4 +1,5 @@
-### Hello World 👋 It's [Fadlan!](https://fadlan65.github.io/MyPortfolio/)
+### Bismillah...
+### Halo, It's [Fadlan!](https://fadlan65.github.io/MyPortfolio/)
 
 <br/>
 
@@ -16,7 +17,7 @@
 
 <br />
 
-Hi,I'm Fadlan Amin🙌, a Data Analyst, Data Analytics and Scientist Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi, I'm Fadlan Amin! I'm a Data Analytics and Data Science Enthusiast. Apart from that I love getting involved in Competitive Programming, Problem Solving, also Copywriting!
 
 
 **Talking about Personal Stuffs:**
